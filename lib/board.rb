@@ -4,3 +4,5 @@ count = 0
   board[count]= " "
   count+=1
 end
+
+print board

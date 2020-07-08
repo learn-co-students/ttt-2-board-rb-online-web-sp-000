@@ -1,1 +1,4 @@
-# Define the variable board below.
+board = "Hello"
+board = Array.new
+
+board = [" "," "," "," ", " ", " "," "," "," "]

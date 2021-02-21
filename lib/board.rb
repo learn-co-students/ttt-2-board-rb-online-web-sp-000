@@ -1,1 +1,2 @@
-# Define the variable board below.
+# Define 'bearnthe variable board below.
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
